@@ -1,6 +1,6 @@
 {
-  "title": "Hello, my name is Fernfolio",
+  "title": "Mental Health Plant",
   "image": "/static/img/fern-in-hand.jpeg",
-  "subtitle": "The super simple portfolio template built with Eleventy and Netlify CMS",
+  "subtitle": "These vertical garden towers enable you to grow food with the little water you have. They also maximize the production you can have in a small space by growing plants vertically instead of horizontally in the ground.",
   "image_alt": "Fern in hand"
 }
